@@ -15,4 +15,4 @@ Tentative feature list:
             7- One-time payment
             8- Recurring payment
 Challenges: Scams
-Solution: Use Facebook login, GPS location.
+Solution: Use Facebook login, GPS location. 
